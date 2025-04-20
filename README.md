@@ -1,5 +1,5 @@
 # weather-forecast-rs
-Simple CLI weather forecast written in the Rust programming language. Based on api provided by [Open Meteo](https://open-meteo.com').
+Simple CLI weather forecast written in the Rust programming language. Based on api provided by [Open Meteo](https://open-meteo.com).
 
 ## Usage:
 Compile repo from the source code or download an executable from **Releases** page. 
